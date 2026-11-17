@@ -1,0 +1,36 @@
+# Visual Studio - IDE metadata
+.vs/
+**/.vs/
+
+# Visual Studio solution files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio generated files
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]ny[Cc]pu/
+
+# Build and publish output
+artifacts/
+publish/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Editor state
+*.sln.docstates
+*.code-workspace
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
