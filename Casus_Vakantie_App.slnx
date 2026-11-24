@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="LeMarconnes/LeMarconnes.csproj" Id="7f5732f9-567e-4308-82e1-af79688fdb20" />
+  <Project Path="MarconnesTests/MarconnesTests.csproj" Id="b4658d34-8336-4634-a5cf-acf6773ba648" />
 </Solution>
